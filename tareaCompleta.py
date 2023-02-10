@@ -80,7 +80,7 @@ try:
             elif opcion == 5:
                 lista.eliminarInicio()
             elif opcion == 6:
-                lista.recorrer()
+                lista.mostrarLista()
             elif opcion == 7:
                 print("Adiós")
             else:
